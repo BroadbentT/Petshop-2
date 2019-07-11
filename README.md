@@ -1,5 +1,5 @@
 # PETSHOP 2
-A pet shop animal/owner relationship file using polymorphism.
+A pet shop animal/owner relationship utility file using polymorphism.
 
 | LANGUAGE | FILENAME | MD5 Hash |
 |------    |------    | -------  |
