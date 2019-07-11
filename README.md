@@ -11,4 +11,4 @@ A pet shop animal/owner relationship file using polymorphism.
 - [x] Tested and working...
 
 ## CONSOLE DISPLAY
-![Screenshot](SceenShot.jpg)
+![Screenshot](ScreenShot.jpg)
